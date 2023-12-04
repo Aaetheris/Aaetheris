@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aaetheris
 - 👀 I’m interested in Cinmatography, film and physics
 - 🌱 I’m currently pursuing a bacheors degree in Astrophysics
-- 💞️ I’m looking to collaborate on coding projects and basically anything related to coding, physics ,photography and cinematography 
+- 💞️ I’m looking to collaborate on coding projects and basically anyhting related to physics ,photography and cinematography 
 - 📫 How to reach me .....you can us my email - Raedscvr@gmail.com
 
 <!---
