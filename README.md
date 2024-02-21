@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aaetheris
-- 👀 I’m interested in Cinmatography, film and physics
+- 👋 Hi, I’m @Murewaa
+- 👀 I’m interested in Cinmatography, Film and Physics
 - 🌱 I’m currently pursuing a bacheors degree in Astrophysics
-- 💞️ I’m looking to collaborate on coding projects and basically anyhting related to physics ,photography and cinematography 
+- 💞️ I’m looking to collaborate on coding projects and any scientific reaserch or film research.
 - 📫 How to reach me .....you can us my email - Raedscvr@gmail.com
 
 <!---
